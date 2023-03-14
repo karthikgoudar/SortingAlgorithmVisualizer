@@ -1,3 +1,18 @@
+"""
+Author : Karthik GOudar
+Date   : 13 Mar, 2023
+
+Visualization of sorting algorithm 
+
+Features multicoloured visual bars and function keys.
+Built with Python and pyGame
+
+
+"""
+
+
+
+
 import pygame
 import random
 import math
